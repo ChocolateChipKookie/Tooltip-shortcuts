@@ -9,4 +9,4 @@ The config file:
   * Examples present in the config file
 
 I also uploaded an executable of the script, but as this is the internet, rather install AutoHotkey and compile it yourself.  
-Tip: Place it in the Startup folder C:\Users\Anakleta\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup so it runs every time the PC restarts
+Tip: Place it in the Startup folder (eg. C:\Users\Anakleta\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup) so it runs every time the PC restarts
