@@ -1,0 +1,5 @@
+Notepad|Notepad++
+File explorer|Explorer
+Faks|Explorer /e, C:\Users\Anakleta\Documents\Faks
+C++ repos|Explorer /e, C:\Users\Anakleta\source\repos
+Downloads|Explorer /e, C:\Users\Anakleta\Downloads
